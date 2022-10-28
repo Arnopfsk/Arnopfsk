@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Fahin Sharier Khan
+- 👀 I’m interested in QA engineering
+- 🌱 I’m currently learning automation testing
+- 📫 fskarnop@gmail.com mail to reach me
