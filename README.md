@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/fahimsharier" target="blank"><img src="https://img.shields.io/twitter/follow/fahimsharier?logo=twitter&style=for-the-badge" alt="fahimsharier" /></a> </p>
 
-- 🔭 I’m currently working on [Manual Testing](shorturl.at/hOZ57)
+- 🔭 I’m currently working on [Manual Testing](https://docs.google.com/spreadsheets/d/1P4lbUgOIPO9hEt0IKQG5vbmkOOAC99Xq/edit?usp=share_link&ouid=106196714903168137296&rtpof=true&sd=true)
 
 - 🌱 I’m currently learning **Automation Testing**
 
-- 👨‍💻 All of my projects are available at [shorturl.at/eG089](shorturl.at/eG089)
+- My portfolio is available at [https://sites.google.com/view/mdfahimsharierkhanarnop/home](https://sites.google.com/view/mdfahimsharierkhanarnop/home)
 
 - 📫 How to reach me **fskarnop@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/jmSTV](shorturl.at/jmSTV)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lGprSwt9panSdb0vS-Vw-zuhWZHtlSGu/view?usp=share_link](https://drive.google.com/file/d/1lGprSwt9panSdb0vS-Vw-zuhWZHtlSGu/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
