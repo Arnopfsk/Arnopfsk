@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Automation Testing**
 
-- My portfolio is available at [https://sites.google.com/view/mdfahimsharierkhanarnop/home](https://sites.google.com/view/mdfahimsharierkhanarnop/home)
+- 📄 My portfolio is available at [hare](https://sites.google.com/view/mdfahimsharierkhanarnop/home)
 
 - 📫 How to reach me **fskarnop@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lGprSwt9panSdb0vS-Vw-zuhWZHtlSGu/view?usp=share_link](https://drive.google.com/file/d/1lGprSwt9panSdb0vS-Vw-zuhWZHtlSGu/view?usp=share_link)
+- 📄 Know more about me [hare](https://drive.google.com/file/d/1lGprSwt9panSdb0vS-Vw-zuhWZHtlSGu/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
